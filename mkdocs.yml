@@ -1,0 +1,19 @@
+site_name: Tony Lu
+
+theme:
+  name: material
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+nav:
+    - Home: 'index.md'
+    - About: 'about.md'
+    - 'Generating Anime Images':
+      - 'Project Home' : 'Projects/projects.md'
+      - 'Anime face cropper': 'Projects/animefacecrop.md'
+      - 'Image preprocessor' : 'Projects/imagepreprocess.md'
+      - 'Custom docker image for GAN' : 'Projects/dockerimage.md'
+      - 'Using FastAI on VastAI' : 'Projects/fastaivastai.md'
+      - 'Using custom images in stylegan2' : 'Projects/stylegan2-ada.md'
