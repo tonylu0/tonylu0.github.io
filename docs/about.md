@@ -37,10 +37,18 @@ for machine learning accelerators.
 ---
 
 ## Personal Projects
-**Facial Recognition on PYNQ FPGA**
+**Anime Face Generator**
 
-* Implemented facial detection using OpenCV and Python on the Xilinx PYNQ FPGA.
-* Added facial recognition using an open source network.
+* Used Stylegan2 on a custom set of anime faces to generate similar fake anime faces.  
+* Created a python script to generate a folder of cropped anime faces from a folder images.
+* Created a python script to preprocess images to meet Stylegan2 requirements and to resize images to a custom size.
+* Created a custom docker image with Stylegan2 and the training dataset to enable training on powerful remote machines in VastAI
+to reduce bandwidth cost.
+
+**Online anime recognizer**
+
+* Used FastAI to deploy a machine learning model online using mybinder to recognize anime faces.
+* Created GUI to select images.
 ---
 
 ## Technical Skills

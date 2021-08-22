@@ -2,6 +2,9 @@ site_name: Tony Lu
 
 theme:
   name: material
+  icon:
+    logo: material/text-box-outline
+  favicon: images/text-box-outline.svg
 
 markdown_extensions:
   - pymdownx.highlight
@@ -10,7 +13,7 @@ markdown_extensions:
 nav:
     - Home: 'index.md'
     - About: 'about.md'
-    - 'Generating Anime Images':
+    - 'Anime Face Generator':
       - 'Project Home' : 'Projects/projects.md'
       - 'Anime face cropper': 'Projects/animefacecrop.md'
       - 'Image preprocessor' : 'Projects/imagepreprocess.md'
