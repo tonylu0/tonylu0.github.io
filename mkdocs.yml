@@ -15,9 +15,9 @@ nav:
     - Cloud GPU Recommendations: 'recommendations.md'
     - 'Anime Face Generator':
       - 'Project Home' : 'Projects/projects.md'
-      - 'Anime face cropper': 'Projects/animefacecrop.md'
-      - 'Image preprocessor' : 'Projects/imagepreprocess.md'
-      - 'Custom docker image for GAN' : 'Projects/dockerimage.md'
+      - 'Anime Face Cropper': 'Projects/animefacecrop.md'
+      - 'Image Preprocessor' : 'Projects/imagepreprocess.md'
+      - 'Custom Docker Image for GAN' : 'Projects/dockerimage.md'
       - 'Using FastAI on VastAI' : 'Projects/fastaivastai.md'
-      - 'Using custom images in stylegan2' : 'Projects/stylegan2-ada.md'
+      - 'Using Custom Images in Stylegan2' : 'Projects/stylegan2-ada.md'
     - About Me: 'about.md'

@@ -1,8 +1,10 @@
 # Anime face generator
+![ganresults](/images/ganresults.png)
+
 The goal for this project is to generate new images based on supplied images. In this case, I
 wished to generate more anime faces based on the supplied anime face data. 
 
-In order to do so, I used stylegan2-ada. Stylegan2ada is nvidia's GAN (Generative Adversarial Network).
+In order to do so, I used Stylegan2-ada. Stylegan2-ada is Nvidia's GAN (Generative Adversarial Network).
 ## Anime face cropper
 In order to limit the scope of the image generation, we need to first crop the anime faces from the images.
 While using the entire image to generate more fake images is possible, it is a lot more complicated computation
