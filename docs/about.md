@@ -54,6 +54,6 @@ to reduce bandwidth cost.
 ## Technical Skills
 *Languages and Development Tools*
 
-* C++, Verilog, Java, Python
-* Xilinx Vivado, Eclipse, Visual Studio Code
-* Latex
+* Python, Java, C++, Verilog
+* Visual Studio Code, Eclipse, Xilinx Vivado
+* Markdown
