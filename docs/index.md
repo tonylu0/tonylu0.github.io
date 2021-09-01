@@ -14,6 +14,8 @@ and VastAI can provide remote GPU resources to allow anyone to use FastAI with j
 
 [Recommendations for Cloud GPU compute providers](recommendations)
 
+[How to use FastAI on VastAI](projects/fastaivastai)
+
 ![docker](images/docker.png)
 
 Remote compute services do not require the user to install everything manually. Rather, they provide the option 

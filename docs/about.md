@@ -45,6 +45,10 @@ for machine learning accelerators.
 * Created a custom docker image with Stylegan2 and the training dataset to enable training on powerful remote machines in VastAI
 to reduce bandwidth cost.
 
+**Using FastAI on VastAI tutorial**
+
+* Created text and video tutorial on how to use FastAI on VastAI
+
 **Online anime recognizer**
 
 * Used FastAI to deploy a machine learning model online using mybinder to recognize anime faces.

@@ -13,11 +13,11 @@ markdown_extensions:
 nav:
     - Home: 'index.md'
     - Cloud GPU Recommendations: 'recommendations.md'
+    - FastAI on VastAI: 'projects/fastaivastai.md'
     - 'Anime Face Generator':
-      - 'Project Home' : 'Projects/projects.md'
-      - 'Anime Face Cropper': 'Projects/animefacecrop.md'
-      - 'Image Preprocessor' : 'Projects/imagepreprocess.md'
-      - 'Custom Docker Image for GAN' : 'Projects/dockerimage.md'
-      - 'Using FastAI on VastAI' : 'Projects/fastaivastai.md'
-      - 'Using Custom Images in Stylegan2' : 'Projects/stylegan2-ada.md'
+      - 'Project Home' : 'projects/animefacegenerator.md'
+      - 'Anime Face Cropper': 'projects/animefacecrop.md'
+      - 'Image Preprocessor' : 'projects/imagepreprocess.md'
+      - 'Custom Docker Image for GAN' : 'projects/dockerimage.md'
+      - 'Using Custom Images in Stylegan2' : 'projects/stylegan2-ada.md'
     - About Me: 'about.md'
