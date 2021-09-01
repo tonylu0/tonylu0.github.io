@@ -38,7 +38,7 @@ Same as above except
 
 **VastAI** $5 deposit minimum, price depends on rental
 
-[How to use FastAI on VastAI](projects/fastaivastai)
+[How to use FastAI on VastAI](/projects/fastaivastai)
 
 * Uses docker images, can use custom docker image.
 * Instead of using servers which are not allowed to use consumer GPUs, VastAI uses decentralized compute
