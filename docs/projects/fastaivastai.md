@@ -1,7 +1,7 @@
 # FastAI on VastAI
 
 ## Introduction
-There is already a [video version of the tutorial on Youtube](#).
+There is already a [video version of the tutorial on Youtube](https://youtu.be/6DTfC3PK_4U).
 
 This is the text version of the tutorial.
 
