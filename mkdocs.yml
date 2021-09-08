@@ -19,5 +19,4 @@ nav:
       - 'Anime Face Cropper': 'projects/animefacecrop.md'
       - 'Image Preprocessor' : 'projects/imagepreprocess.md'
       - 'Custom Docker Image for GAN' : 'projects/dockerimage.md'
-      - 'Using Custom Images in Stylegan2' : 'projects/stylegan2-ada.md'
     - About Me: 'about.md'

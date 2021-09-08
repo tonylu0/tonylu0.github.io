@@ -37,5 +37,10 @@ After we are done training, the model can be downloaded from the results folder 
 Sample fake images will also be in the results folder, as well as model checkpoints and sample images at the checkpoints.
 
 ---
-## In progress - Full tutorial on how to use custom images in stylegan2-ada
-A tutorial will be made on how to follow along in using custom images to create fake images using stylegan2-ada.
+## Full tutorial on how to use custom images in stylegan2-ada
+A text and video tutorial will be made on how to follow along in using custom images to create fake images using stylegan2-ada.
+The text tutorial will be in the following pages in the Anime Face Generator directory.
+
+* [Anime Face Cropper](/projects/animefacecrop) - Finished
+* [Image Preprocessor](/projects/imagepreprocess) - In progress
+* [Custom docker image for training GAN](/projects/dockerimage) - In progress
