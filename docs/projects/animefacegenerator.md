@@ -17,10 +17,25 @@ wise, and does not transfer well when using the transfer learning technique.
 
 ---
 ## Image preprocessor
+After obtaining a set of training images, the images then need to be transformed into an appropriate data format
+so that the GAN model will use. The image preprocessing step will crop the images into square images, ensure that 
+the images are in the RGB colorspace, and make sure the file formats are correct.
 
 ---
 ## Custom docker image for GAN training
+After the training data is finished with preprocessing, we need to convert it to a format that the GAN will accept. 
+In the custom docker image we will use a script provided by Nvidia called ```dataset_tool.py``` that will turn the
+ images into TFRecords, which can be fed into the GAN.
+
 ---
-## In progress - FastAI on VastAI
+## Training on VastAI
+In this step, we will then load the docker image with the TFRecords data into VastAI, which allows us to use custom
+docker images on rental GPU servers. This allows us to use multiple GPUs at once, greatly decreasing the time spent
+training.
+
+After we are done training, the model can be downloaded from the results folder to produce fake images. 
+Sample fake images will also be in the results folder, as well as model checkpoints and sample images at the checkpoints.
+
 ---
-## In progress - How to use custom images in stylegan2-ada
+## In progress - Full tutorial on how to use custom images in stylegan2-ada
+A tutorial will be made on how to follow along in using custom images to create fake images using stylegan2-ada.
