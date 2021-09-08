@@ -2,7 +2,7 @@
 
 ## Objective
 I am currently seeking a full time position in Software Development.  
-I bring experience from personal projects and research to suppport the development of technical projects.
+I bring experience from personal projects and research to support the development of technical projects.
 ---
 
 ## Education
