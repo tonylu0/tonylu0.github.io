@@ -51,6 +51,7 @@ VastAI website.
 Be sure to only paste the public key. It is the shorter of the two keys, and has a smaller file size.
 VastAI will warn you if you paste your private key by mistake.
 
+---
 ## Provisioning a remote GPU server
 After this, we can finally start up a server! First, go to the create page. I recommend setting the GPU 
 count filter to 1. This allows us to focus only on servers that have 1 GPU. This filter can be adjusted
@@ -79,6 +80,7 @@ in the future.
 
 Other instances will have different prices for the storage as well as internet transfer.
 
+---
 ## Connecting to the server
 
 Once you have chosen a server to rent, you can click on the rent button and then go to the instances page.
@@ -111,6 +113,7 @@ You will see the links to connect to the jupyter notebook in the terminal.
 After pasting the link in the web browser, you will see your standard jupyter notebook interface. You can 
 now use as any other jupyter notebook.
 
+---
 ## Running programs in the server
 ![vastaijupyternotebook](/images/vastaijupyternotebook.png)
 
@@ -122,6 +125,7 @@ am using has only 11GB of VRAM so the models that I can use are limited.
 If you see an out of memory error, it is likely because of insufficient VRAM and you need to either lower the batch size
 or choose a different model.
 
+---
 ## Saving your work
 After you are done with your work, you need to download it off of the server in order to keep it.
 Jupyter notebook allows you to select each file individually to download.
@@ -132,6 +136,7 @@ To download everything, take a look at [downloading all files in a path on jupyt
 file of everything in the current directory.
 ![vastaijupyternotebookdownload](/images/vastaijupyternotebookdownload.png)
 
+---
 ## Shutting down the server
 When you are done saving your work, you can close the jupyter notebook tabs and go to the instances tab on the
 vastai console. After pressing stop, the charges for running the instance will stop but the charges for storage
