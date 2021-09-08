@@ -43,4 +43,4 @@ The text tutorial will be in the following pages in the Anime Face Generator dir
 
 * [Anime Face Cropper](/projects/animefacecrop) - Finished
 * [Image Preprocessor](/projects/imagepreprocess) - In progress
-* [Custom docker image for training GAN](/projects/dockerimage) - In progress
+* [Custom docker image for GAN training](/projects/dockerimage) - In progress

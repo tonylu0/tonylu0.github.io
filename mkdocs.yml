@@ -18,5 +18,5 @@ nav:
       - 'Project Home' : 'projects/animefacegenerator.md'
       - 'Anime Face Cropper': 'projects/animefacecrop.md'
       - 'Image Preprocessor' : 'projects/imagepreprocess.md'
-      - 'Custom Docker Image for GAN' : 'projects/dockerimage.md'
+      - 'Custom Docker Image for GAN training' : 'projects/dockerimage.md'
     - About Me: 'about.md'
