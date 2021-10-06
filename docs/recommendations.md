@@ -23,11 +23,13 @@
 * Limited to Colab scripts and can not use custom docker images.
 
 ## Paid Options
-**Paperspace** $8/month
+**Paperspace** $8/month - $39/month
 
 Same as above except
 
-* Unlocks another free tier with Nvidia Quadro P5000 16GB with 8.9 FP32 TFLOPS.
+* Unlocks more free tiers with Nvidia Quadro P5000 16GB with 8.9 FP32 TFLOPS and RTX4000 8GB with 7.1 FP32 TFLOPS
+* Higher tier membership unlocks more free tiers with Nvidia RTX A4000 16GB with 19.2 FP32 TFLOPS and Nvidia A100 40GB with 19.5 FP32 TFLOPS
+* Note that the Nvidia RTX4000 and A100 have increased FP16 compute to increase computation.
 * Free P5000 instances are almost always available (basically unlimited P5000 use).
 
 **Google Colab** $10/month
