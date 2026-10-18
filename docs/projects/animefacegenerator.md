@@ -1,5 +1,4 @@
 # Anime face generator
-![ganresults](/images/ganresults.png)
 
 ---
 ## Introduction
