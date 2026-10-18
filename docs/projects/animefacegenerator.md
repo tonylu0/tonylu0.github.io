@@ -1,6 +1,5 @@
 # Anime face generator
 
----
 ## Introduction
 The goal for this project is to generate new images based on supplied images. In this case, I
 wished to generate more anime faces based on the supplied anime face data. 
